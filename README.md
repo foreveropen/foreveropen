@@ -58,18 +58,21 @@
   <img src="https://img.shields.io/badge/Tauri-24C8DB?style=for-the-badge&logo=tauri&logoColor=white" alt="Tauri" />
 </p>
 
-<!-- GitHub 统计卡片：github-readme-stats 服务实时拉取你的公开数据 -->
-## GitHub 统计
+<!-- 连续提交统计：streak-stats 公共镜像，国内可正常加载 -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=foreveropen&theme=dark&hide_border=true" alt="GitHub Streak" />
+</p>
 
+<!--
+  GitHub Stats / Top Languages 大卡片：原用 github-readme-stats.vercel.app，
+  该服务在国内加载不稳定会裂图，且当前数据量少展示效果差，暂时注释。
+  以后 contributions 多了想加回来，取消下面注释即可。
+## GitHub 统计
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=foreveropen&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" width="420" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=foreveropen&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="360" />
 </p>
-
-<!-- 连续提交统计：streak-stats 公共镜像（原 herokuapp 已关停，改用 demolab） -->
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=foreveropen&theme=dark&hide_border=true" alt="GitHub Streak" />
-</p>
+-->
 
 <!-- WakaTime 编程时间统计：需要先在 wakatime.com 注册并把 YOUR_WAKATIME_USER_ID 换成真实 ID
      没配置好之前先注释掉，避免主页出现裂图；配好后取消注释即可
@@ -93,7 +96,8 @@
 
 ---
 
-<!-- 页脚访问量统计：komarev.com 服务，显示本主页被访问次数 -->
+<!-- 页脚访问量统计：komarev.com 国内加载不稳定，暂时注释；需要时取消注释
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=foreveropen&label=%E8%AE%BF%E9%97%AE%E9%87%8F&color=8ED8FF&style=flat-square" alt="profile views" />
 </p>
+-->
