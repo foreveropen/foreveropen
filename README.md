@@ -44,7 +44,7 @@
 <!-- 精选项目：用真实仓库代替空泛的"项目亮点"，点进去能看到东西 -->
 ## 精选项目
 
-- [**心诚则灵 · 易经六爻占卜**](https://github.com/foreveropen/xczl) — 像素古风纯前端排盘工具，零依赖，打开即用 · [在线体验](https://foreveropen.github.io/xczl/)
+- [**六爻占卜**](https://github.com/foreveropen/xczl) — 像素古风纯前端排盘工具，零依赖，打开即用 · [在线体验](https://foreveropen.github.io/xczl/)
 
 <!-- 技术栈徽章：logos 来自 shields.io，展示常用技术图标 -->
 ## 技术栈
