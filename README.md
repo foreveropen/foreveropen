@@ -88,6 +88,7 @@
 
 - GitHub: https://github.com/foreveropen
 - Email: （待补充）
+- 个人主页 https://foreveropen.github.io/
 
 <!-- 收尾一句话：个人态度，点到为止 -->
 ## 个人总结
