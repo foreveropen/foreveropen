@@ -45,6 +45,7 @@
 ## 精选项目
 
 - [**六爻占卜**](https://github.com/foreveropen/xczl) — 像素古风纯前端排盘工具，零依赖，打开即用 · [在线体验](https://foreveropen.github.io/xczl/)
+- [**直播预言竞猜**](https://github.com/foreveropen/live-prediction) — Node.js + Express + SQLite 全栈，彩池分红结算，SSE 实时推送，双端自适应
 - 独立社群发起者 -官网[在线体验](https://foreveropen.github.io/independent-practitioner-community/)
 
 <!-- 技术栈徽章：logos 来自 shields.io，展示常用技术图标 -->
