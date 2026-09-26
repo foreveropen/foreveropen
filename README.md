@@ -45,6 +45,7 @@
 ## 精选项目
 
 - [**六爻占卜**](https://github.com/foreveropen/xczl) — 像素古风纯前端排盘工具，零依赖，打开即用 · [在线体验](https://foreveropen.github.io/xczl/)
+- 独立社群发起者 -官网[在线体验](https://foreveropen.github.io/independent-practitioner-community/)
 
 <!-- 技术栈徽章：logos 来自 shields.io，展示常用技术图标 -->
 ## 技术栈
@@ -93,12 +94,12 @@
 <!-- 收尾一句话：个人态度，点到为止 -->
 ## 个人总结
 
-我希望通过代码和交互体验，把想法变成真实可用的东西；既关注功能，也重视深度和细节。
+我希望通实践学习能实现个人的发展成长
 
 ---
 
-<!-- 页脚访问量统计：komarev.com 国内加载不稳定，暂时注释；需要时取消注释
+<!-- 页脚访问量统计：komarev.com 国内加载不稳定，暂时注释；需要时取消注释 -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=foreveropen&label=%E8%AE%BF%E9%97%AE%E9%87%8F&color=8ED8FF&style=flat-square" alt="profile views" />
 </p>
--->
+
