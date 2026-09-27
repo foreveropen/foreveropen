@@ -48,6 +48,7 @@
 - [**直播预言竞猜**](https://github.com/foreveropen/live-prediction) — Node.js + Express + SQLite 全栈，彩池分红结算，SSE 实时推送，双端自适应
 - [**独立社群发起者官网**](https://github.com/foreveropen/independent-practitioner-community) — 社群官网 · [在线体验](https://foreveropen.github.io/independent-practitioner-community/)
 - [**合成大西瓜 · 2D 物理小游戏**](https://github.com/foreveropen/xiaoyouxi) — 基于 Matter.js 的物理碰撞合成游戏，单 HTML 文件，浏览器即开即玩 · [在线试玩](https://foreveropen.github.io/xiaoyouxi/)
+- [**30秒暴富挑战**](https://github.com/foreveropen/baofu) — 手速印钞爽游，30 秒狂点赚"身价"，自动生成可炫耀结算图 · [在线试玩](https://foreveropen.github.io/baofu/)
 
 <!-- 技术栈徽章：logos 来自 shields.io，展示常用技术图标 -->
 ## 技术栈
