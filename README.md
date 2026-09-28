@@ -1,12 +1,17 @@
 <!--
   FOREVEROPEN · GitHub 个人主页
-  用于展示在 github.com/foreveropen 主页上
-  GitHub 会自动渲染此文件，注释不会显示在页面中
+  语言切换：中文 / English
+  访问量统计：使用 komarev 真实访问量服务
 -->
 
 # FOREVEROPEN
 
-<div align="center">
+<p align="center">
+  <a href="#zh-cn"><img src="https://img.shields.io/badge/%E4%B8%AD%E6%96%87-%E5%B7%B2%E9%80%89%E6%8B%A9-8ED8FF?style=flat-square&labelColor=0d1117" alt="中文" /></a>
+  <a href="#en"><img src="https://img.shields.io/badge/English-View-0d1117?style=flat-square&labelColor=0d1117&color=8ED8FF" alt="English" /></a>
+</p>
+
+<div id="zh-cn" align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8ED8FF&center=true&vCenter=true&width=700&lines=%E5%85%A8%E6%A0%88%E5%BC%80%E5%8F%91%E8%80%85;%E7%8B%AC%E7%AB%8B%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91%E8%80%85;%E4%BA%A4%E4%BA%92%E5%92%8C+UI+%E8%AE%BE%E8%AE%A1" alt="typing" />
 </div>
 
@@ -35,7 +40,7 @@
 - 开发交互式原型和小型游戏
 - 优化界面结构与创意表达
 
-## 精选项目
+## 代表项目
 
 - [**六爻占卜**](https://github.com/foreveropen/xczl) — 像素古风纯前端排盘工具，零依赖，打开即用 · [在线体验](https://foreveropen.github.io/xczl/)
 - [**直播预言竞猜**](https://github.com/foreveropen/live-prediction) — Node.js + Express + SQLite 全栈项目，支持彩池分红、SSE 实时推送与双端自适应
@@ -52,6 +57,14 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Tauri-24C8DB?style=for-the-badge&logo=tauri&logoColor=white" alt="Tauri" />
+</p>
+
+## 贡献统计
+
+<p align="center">
+  <img src="https://img.shields.io/badge/%E6%80%BB%E8%B4%A1%E7%8C%AE-69-8ED8FF?style=for-the-badge&logo=github&logoColor=white" alt="total contributions" />
+  <img src="https://img.shields.io/badge/%E5%BD%93%E5%89%8D%E8%BF%9E%E7%BB%AD-4-7AF1FF?style=for-the-badge&logo=github&logoColor=white" alt="current streak" />
+  <img src="https://img.shields.io/badge/%E6%9C%80%E9%95%BF%E8%BF%9E%E7%BB%AD-4-9ED0FF?style=for-the-badge&logo=github&logoColor=white" alt="longest streak" />
 </p>
 
 <p align="center">
@@ -71,6 +84,66 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/%E8%AE%BF%E9%97%AE%E9%87%8F-%E7%9B%AE%E5%89%8D%E5%9C%A8%E7%BA%BF-8ED8FF?style=flat-square&labelColor=0d1117&logo=github" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=foreveropen&label=%E8%AE%BF%E9%97%AE%E9%87%8F&color=8ED8FF&style=flat-square" alt="profile views" />
 </p>
+
+<div id="en">
+
+# FOREVEROPEN
+
+<p align="center">
+  <a href="#zh-cn"><img src="https://img.shields.io/badge/Chinese-Selected-8ED8FF?style=flat-square&labelColor=0d1117" alt="Chinese" /></a>
+  <a href="#en"><img src="https://img.shields.io/badge/English-View-0d1117?style=flat-square&labelColor=0d1117&color=8ED8FF" alt="English" /></a>
+</p>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8ED8FF&center=true&vCenter=true&width=700&lines=Full-stack+Developer;Game+Prototype+Builder;UX+and+Interaction+Design" alt="typing" />
+</div>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Web%20%2F%20Game-8ED8FF?style=flat-square&logo=code" alt="focus" />
+  <img src="https://img.shields.io/badge/Status-Working-7AF1FF?style=flat-square" alt="status" />
+  <img src="https://img.shields.io/badge/Location-China-9ED0FF?style=flat-square" alt="location" />
+</p>
+
+## About Me
+
+I am a developer focused on Web development, interaction design, and game prototyping.
+
+I enjoy turning ideas into usable products, building clear and stable interfaces, and exploring more expressive digital experiences.
+
+## Core Skills
+
+- Frontend: HTML / CSS / JavaScript
+- Backend & Tooling: Node.js / Python / Tauri
+- UI/UX & Prototypes: interaction logic, interface structure, visual refinement
+- Game Direction: mechanics, mini-game prototypes, experimental projects
+
+## Current Focus
+
+- Build practical web experiences
+- Develop interactive prototypes and mini-games
+- Improve interface structure and creative expression
+
+## Featured Projects
+
+- [**Six Trigrams Divination**](https://github.com/foreveropen/xczl) — pure front-end divination tool with pixel style · [Live Demo](https://foreveropen.github.io/xczl/)
+- [**Live Prediction**](https://github.com/foreveropen/live-prediction) — Node.js + Express + SQLite full-stack app with reward settlement and real-time updates
+- [**Independent Practitioner Community**](https://github.com/foreveropen/independent-practitioner-community) — community homepage · [Live Demo](https://foreveropen.github.io/independent-practitioner-community/)
+- [**Fruit Merge Game**](https://github.com/foreveropen/xiaoyouxi) — Matter.js-based physics game · [Play Now](https://foreveropen.github.io/xiaoyouxi/)
+- [**30 Seconds to Get Rich**](https://github.com/foreveropen/baofu) — click-based game with auto-generated summary graphic · [Play Now](https://foreveropen.github.io/baofu/)
+
+## Contact
+
+- GitHub: https://github.com/foreveropen
+- Homepage: https://foreveropen.github.io/
+- Email: To be updated
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=foreveropen&label=Profile%20Views&color=8ED8FF&style=flat-square" alt="profile views" />
+</p>
+
+</div>
 
